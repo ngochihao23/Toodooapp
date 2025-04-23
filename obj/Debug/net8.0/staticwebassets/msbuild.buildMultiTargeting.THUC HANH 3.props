@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\THUC HANH 3.props" />
+</Project>

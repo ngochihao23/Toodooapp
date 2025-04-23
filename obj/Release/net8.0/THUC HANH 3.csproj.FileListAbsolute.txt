@@ -1,0 +1,7 @@
+D:\chia\thuchanh3\Todoapp\obj\Release\net8.0\THUC HANH 3.csproj.AssemblyReference.cache
+D:\chia\thuchanh3\Todoapp\obj\Release\net8.0\THUC HANH 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\chia\thuchanh3\Todoapp\obj\Release\net8.0\THUC HANH 3.AssemblyInfoInputs.cache
+D:\chia\thuchanh3\Todoapp\obj\Release\net8.0\THUC HANH 3.AssemblyInfo.cs
+D:\chia\thuchanh3\Todoapp\obj\Release\net8.0\THUC HANH 3.csproj.CoreCompileInputs.cache
+D:\chia\thuchanh3\Todoapp\obj\Release\net8.0\THUC HANH 3.MvcApplicationPartsAssemblyInfo.cs
+D:\chia\thuchanh3\Todoapp\obj\Release\net8.0\THUC HANH 3.MvcApplicationPartsAssemblyInfo.cache
